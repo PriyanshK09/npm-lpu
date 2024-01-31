@@ -1,0 +1,27 @@
+{
+  "name": "firstpackage",
+  "version": "1.0.0",
+  "description": "This is my first package in NPM, made during class of 31st January 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyanshK09/npm-lpu.git"
+  },
+  "keywords": [
+    "lpu",
+    "npm",
+    "test"
+  ],
+  "author": "Priyansh Khare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriyanshK09/npm-lpu/issues"
+  },
+  "homepage": "https://github.com/PriyanshK09/npm-lpu#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
