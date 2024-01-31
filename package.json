@@ -1,8 +1,8 @@
 {
-  "name": "firstpackage",
+  "name": "calcpriyansh",
   "version": "1.0.0",
   "description": "This is my first package in NPM, made during class of 31st January 2024",
-  "main": "index.js",
+  "main": "calc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
